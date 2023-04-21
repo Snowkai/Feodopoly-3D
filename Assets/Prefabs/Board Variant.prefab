@@ -57,7 +57,25 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 40ddae099a7b11f488396983ba0e1d87, type: 2}
     - target: {fileID: 919132149155446097, guid: 86bfbf5df7ecb964488613a3391be253, type: 3}
       propertyPath: m_Name
-      value: Board
+      value: Board Variant
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86bfbf5df7ecb964488613a3391be253, type: 3}
+--- !u!1 &8352966812557484626 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 86bfbf5df7ecb964488613a3391be253, type: 3}
+  m_PrefabInstance: {fileID: 9163377041122303747}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6429852536798014498
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8352966812557484626}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.10662922, y: 0.1066292, z: 0.0036417164}
+  m_Center: {x: 0, y: 0, z: -0.00063110335}
