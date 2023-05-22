@@ -8,12 +8,13 @@ public class Cell : MonoBehaviour
     public int cell_id;
     public string cell_name;
     public int cell_price;
-    [SerializeField] GameObject Name;
-    [SerializeField] GameObject Price;
-    [SerializeField] GameObject Position1;
-    [SerializeField] GameObject Position2;
-    [SerializeField] GameObject Position3;
-    [SerializeField] GameObject Position4;
+    public int assets_owner_id;
+    public GameObject Name;
+    public GameObject Price;
+    public GameObject Position1;
+    public GameObject Position2;
+    public GameObject Position3;
+    public GameObject Position4;
     // Start is called before the first frame update
     void Start()
     {
