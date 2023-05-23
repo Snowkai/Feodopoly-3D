@@ -217,12 +217,13 @@ MonoBehaviour:
   cell_id: 0
   cell_name: 
   cell_price: 0
+  assets_owner_id: 0
   Name: {fileID: 2637653158464890314}
   Price: {fileID: 2637653158822365245}
-  Position1: {fileID: 0}
-  Position2: {fileID: 0}
-  Position3: {fileID: 0}
-  Position4: {fileID: 0}
+  Position1: {fileID: 3741099715111846968}
+  Position2: {fileID: 1816593136748211599}
+  Position3: {fileID: 2410431397330023777}
+  Position4: {fileID: 302867664727182227}
 --- !u!1 &2637653158464890314
 GameObject:
   m_ObjectHideFlags: 0

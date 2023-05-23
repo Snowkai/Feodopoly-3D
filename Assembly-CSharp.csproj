@@ -59,6 +59,7 @@
     <Compile Include="Assets\Scripts\Cell.cs" />
     <Compile Include="Assets\Scripts\Fishka.cs" />
     <Compile Include="Assets\Scripts\GameRuler.cs" />
+    <Compile Include="Assets\Scripts\Card.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
