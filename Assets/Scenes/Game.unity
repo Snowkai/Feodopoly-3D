@@ -134,9 +134,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0420\u0435\u0447\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -180,7 +188,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (6)
+      value: Cell 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -200,9 +208,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0418\u043C\u043F\u0435\u0440\u0441\u043A\u0438\u0439 \u041F\u0438\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 33
+      value: 38
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -214,7 +230,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.056
+      value: 1.861
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -246,7 +262,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (32)
+      value: Cell 38
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -266,9 +282,13 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0423\u0434\u0430\u0447\u0430"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -312,7 +332,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (5)
+      value: Cell 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -332,9 +356,18 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u0422\u043E\u0440\u0433\u043E\u0432\u044B\u0439
+        \u041F\u0443\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 30
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -378,7 +411,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (29)
+      value: Cell 35
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -398,9 +431,13 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0418\u043C\u043F\u0435\u0440\u0441\u043A\u0438\u0439 \u041D\u0430\u043B\u043E\u0433"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -444,7 +481,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell
+      value: Cell 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -464,9 +505,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0414\u044B\u043D\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 180
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -510,7 +559,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (15)
+      value: Cell 18
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -530,9 +579,13 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -576,7 +629,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (2)
+      value: Cell 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -596,9 +653,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0421\u043E\u0431\u043E\u043B\u0435\u0432\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 300
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 27
+      value: 32
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -642,7 +707,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (26)
+      value: Cell 32
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -662,9 +727,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0411\u043E\u043B\u043E\u0442\u043D\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 60
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -708,7 +781,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (1)
+      value: Cell 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -728,9 +801,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041E\u0437\u0451\u0440\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 120
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -774,7 +855,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (7)
+      value: Cell 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -830,6 +911,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2849982803345424139, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2849982804057903857, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.129
@@ -868,15 +953,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157003, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Name
-      value: Cell Square (2)
+      value: Cell Square 10
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157005, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2849982804097157006, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: cell_name
+      value: "\u041F\u0440\u0438\u0432\u0430\u043B"
+      objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_RootOrder
-      value: 36
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_LocalScale.x
@@ -944,9 +1033,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041F\u043B\u043E\u0442\u043D\u0438\u0446\u043A\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 220
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 20
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -990,7 +1087,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (19)
+      value: Cell 23
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -1010,9 +1107,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041B\u0435\u0441\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 140
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1056,7 +1161,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (10)
+      value: Cell 13
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -1076,9 +1181,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041A\u0443\u0437\u043D\u0435\u0446\u043A\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 220
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 18
+      value: 21
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1122,7 +1235,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (17)
+      value: Cell 21
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -1142,9 +1255,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0413\u043E\u0440\u043D\u044F\u0446\u043A\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 260
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 38
+      value: 27
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1192,7 +1313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (34)
+      value: Cell 27
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -1212,9 +1333,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041A\u0443\u0437\u043D\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 150
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1258,7 +1387,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (9)
+      value: Cell 12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -1311,6 +1440,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1a2dc1c6e31f894ab4f588a794e1539, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cards: []
+  cells:
+  - {fileID: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1398,7 +1530,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalPosition: {x: 0.05, y: 3.12, z: -0.09}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1452,6 +1584,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2849982803345424139, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2849982804057903857, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.129
@@ -1490,15 +1626,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157003, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Name
-      value: Cell Square (1)
+      value: Cell Square 20
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157005, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2849982804097157006, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: cell_name
+      value: "\u0422\u0440\u0430\u043F\u0435\u0437\u043D\u044F \u0410\u0440\u043C\u0435\u0439\u0441\u043A\u0430\u044F"
+      objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_RootOrder
-      value: 35
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_LocalScale.x
@@ -1583,15 +1723,17 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1804971086}
   - {fileID: 2637653159875223486}
+  - {fileID: 217144579}
   - {fileID: 262140827}
   - {fileID: 118554871}
-  - {fileID: 217144579}
   - {fileID: 1925878151}
   - {fileID: 1597086877}
   - {fileID: 17911630}
   - {fileID: 8374091}
   - {fileID: 349642813}
+  - {fileID: 402081136}
   - {fileID: 1477500383}
   - {fileID: 630493056}
   - {fileID: 531718566}
@@ -1601,14 +1743,17 @@ Transform:
   - {fileID: 1143074588}
   - {fileID: 121740717}
   - {fileID: 1394328561}
+  - {fileID: 708794000}
   - {fileID: 591839135}
   - {fileID: 976171423}
   - {fileID: 454685414}
   - {fileID: 1849941444}
   - {fileID: 1966967213}
   - {fileID: 1223503696}
+  - {fileID: 601616597}
   - {fileID: 1434715508}
   - {fileID: 1272584168}
+  - {fileID: 1065019563}
   - {fileID: 2088252077}
   - {fileID: 223478985}
   - {fileID: 1964862373}
@@ -1617,11 +1762,7 @@ Transform:
   - {fileID: 1615007370}
   - {fileID: 856740569}
   - {fileID: 16303556}
-  - {fileID: 1804971086}
-  - {fileID: 708794000}
-  - {fileID: 402081136}
-  - {fileID: 1065019563}
-  - {fileID: 601616597}
+  - {fileID: 1491379624}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1636,9 +1777,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0426\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 350
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 32
+      value: 37
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1682,7 +1831,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (31)
+      value: Cell 37
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -1768,7 +1917,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.61400247, y: -0, z: -0, w: 0.7893041}
-  m_LocalPosition: {x: 0, y: 11.38, z: -2.95}
+  m_LocalPosition: {x: 4.08, y: 1.41, z: -0.42}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1786,9 +1935,13 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0423\u0434\u0430\u0447\u0430"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1832,7 +1985,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (18)
+      value: Cell 22
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -1888,6 +2045,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2849982803345424139, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2849982804057903857, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.129
@@ -1926,15 +2087,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157003, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Name
-      value: Cell Square (3)
+      value: Cell Square 30
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157005, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2849982804097157006, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: cell_name
+      value: "\u041F\u0443\u0442\u044C \u043D\u0430 \u043F\u0440\u0438\u0432\u0430\u043B"
+      objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_RootOrder
-      value: 37
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_LocalScale.x
@@ -2002,9 +2167,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0411\u0430\u0440\u0441\u043A\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 320
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 29
+      value: 34
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2048,7 +2221,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (28)
+      value: Cell 34
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2068,9 +2241,13 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2114,7 +2291,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (14)
+      value: Cell 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2134,9 +2315,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0420\u0443\u0434\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 260
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 23
+      value: 26
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2184,7 +2373,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (22)
+      value: Cell 26
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2204,9 +2393,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041B\u0438\u0442\u0435\u0439\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 280
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 25
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2250,7 +2447,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (24)
+      value: Cell 29
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2270,9 +2467,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041B\u0443\u043A\u043E\u0432\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 180
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2316,7 +2521,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (13)
+      value: Cell 16
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2336,9 +2541,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0412\u0438\u043D\u043E\u0433\u0440\u0430\u0434\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2382,7 +2595,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (16)
+      value: Cell 19
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2402,9 +2615,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0422\u0430\u0451\u0436\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 160
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2448,7 +2669,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (11)
+      value: Cell 14
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2569,9 +2790,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041E\u0440\u0443\u0436\u0435\u0439\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 150
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 24
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2615,7 +2844,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (23)
+      value: Cell 28
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2635,9 +2864,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0414\u043E\u0440\u043E\u0436\u043D\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 140
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2681,7 +2918,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (8)
+      value: Cell 11
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2689,6 +2926,80 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
   m_PrefabInstance: {fileID: 1477500382}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1491379623
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 802222595}
+    m_Modifications:
+    - target: {fileID: 2637653158398374073, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0418\u043C\u043F\u0435\u0440\u0441\u043A\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 400
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_RootOrder
+      value: 39
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.267
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.1863451
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.052
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Name
+      value: Cell 39
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+--- !u!4 &1491379624 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+  m_PrefabInstance: {fileID: 1491379623}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1597086876
 PrefabInstance:
@@ -2701,9 +3012,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041B\u0443\u0433\u043E\u0432\u043D\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2747,7 +3066,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (4)
+      value: Cell 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2767,9 +3086,18 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439 \u0422\u043E\u0440\u0433\u043E\u0432\u044B\u0439
+        \u041F\u0443\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2813,7 +3141,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (12)
+      value: Cell 15
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2833,9 +3161,13 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0423\u0434\u0430\u0447\u0430"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 31
+      value: 36
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2879,7 +3211,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (30)
+      value: Cell 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -2935,6 +3271,18 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2849982803345424139, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: m_text
+      value: 23456
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849982803345424139, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849982803345424139, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
     - target: {fileID: 2849982804057903857, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0.129
@@ -2973,15 +3321,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157003, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Name
-      value: Cell Square
+      value: Cell Square 0
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157005, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2849982804097157006, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: cell_name
+      value: "\u0414\u0430\u043D\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2849982804097157006, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
+      propertyPath: cell_price
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_RootOrder
-      value: 34
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_LocalScale.x
@@ -3117,9 +3473,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0420\u0435\u043C\u0435\u0441\u043B\u0435\u043D\u043D\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 240
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3163,7 +3527,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (20)
+      value: Cell 24
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -3183,9 +3547,18 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u042E\u0436\u043D\u044B\u0439 \u0422\u043E\u0440\u0433\u043E\u0432\u044B\u0439
+        \u041F\u0443\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3229,7 +3602,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (3)
+      value: Cell 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -3249,9 +3622,13 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 28
+      value: 33
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3295,7 +3672,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (27)
+      value: Cell 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -3315,9 +3696,18 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0439 \u0422\u043E\u0440\u0433\u043E\u0432\u044B\u0439
+        \u041F\u0443\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 22
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3361,7 +3751,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (21)
+      value: Cell 25
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -3381,9 +3771,17 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_name
+      value: "\u041C\u0435\u0445\u043E\u0432\u0430\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: cell_price
+      value: 300
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 26
+      value: 31
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3427,7 +3825,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell (25)
+      value: Cell 31
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -3506,15 +3904,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: cell_name
-      value: 
+      value: "\u0413\u043B\u0443\u0448\u044C"
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374074, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: cell_price
-      value: 1000
+      value: 60
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374075, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3558,7 +3956,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
-      value: Cell
+      value: Cell 1
       objectReference: {fileID: 0}
     - target: {fileID: 3260323113870042103, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_IsActive
@@ -3735,6 +4133,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Card
       objectReference: {fileID: 0}
+    - target: {fileID: 4486599029043604796, guid: 42b1965d0cc403b49a6a38d474af8e5b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 42b1965d0cc403b49a6a38d474af8e5b, type: 3}
 --- !u!224 &7034193646992319513 stripped
@@ -3742,20 +4144,3 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 108755092345811602, guid: 42b1965d0cc403b49a6a38d474af8e5b, type: 3}
   m_PrefabInstance: {fileID: 7034193646992319512}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &7034193646992319514 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4486599029043604796, guid: 42b1965d0cc403b49a6a38d474af8e5b, type: 3}
-  m_PrefabInstance: {fileID: 7034193646992319512}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &7034193646992319515
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7034193646992319514}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
