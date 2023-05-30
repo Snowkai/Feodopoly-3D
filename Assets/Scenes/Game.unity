@@ -350,10 +350,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cell 7
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158464890308, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: "\u0423\u0434\u0430\u0447\u0430"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158464890311, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -511,13 +519,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cell 4
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158464890308, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: "\u0418\u043C\u043F\u0435\u0440\u0441\u043A\u0438\u0439 \u041D\u0430\u043B\u043E\u0433"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158464890311, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
     - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
-      propertyPath: m_Enabled
+      propertyPath: m_text
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
@@ -670,6 +686,10 @@ PrefabInstance:
     - target: {fileID: 2637653158398374079, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Name
       value: Cell 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2637653158464890308, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: "\u041F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u0435"
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158464890311, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -835,6 +855,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cell 3
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158464890308, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: "\u0411\u043E\u043B\u043E\u0442\u043D\u044F"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158464890311, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -843,6 +867,12 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: '60
+
+'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
 --- !u!4 &262140827 stripped
@@ -3264,6 +3294,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cell 6
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158464890308, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: "\u041B\u0443\u0433\u043E\u0432\u043D\u044F"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158464890311, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -3272,6 +3306,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: 100
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
 --- !u!4 &1597086877 stripped
@@ -3489,7 +3527,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2849982803345424139, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_text
-      value: 23456
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2849982803345424139, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_Enabled
@@ -3501,9 +3539,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804057903856, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_text
-      value: 'bcvb
-
-'
+      value: "\u0414\u0430\u043D\u044C"
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804057903856, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_fontAsset
@@ -3567,7 +3603,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157006, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: cell_price
-      value: 200
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2849982804097157007, guid: ae7b0cb7eca96a04cbc6c2bcf27a16cd, type: 3}
       propertyPath: m_RootOrder
@@ -3846,6 +3882,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cell 5
       objectReference: {fileID: 0}
+    - target: {fileID: 2637653158464890308, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: "\u042E\u0436\u043D\u044B\u0439 \u0422\u043E\u0440\u0433\u043E\u0432\u044B\u0439
+        \u041F\u0443\u0442\u044C"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158464890311, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -3854,6 +3895,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: 200
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
 --- !u!4 &1925878151 stripped
@@ -4233,13 +4278,9 @@ PrefabInstance:
       value: Cell 1
       objectReference: {fileID: 0}
     - target: {fileID: 2637653158464890308, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
-    - target: {fileID: 2637653158464890308, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
-      propertyPath: m_sharedMaterial
-      value: 
-      objectReference: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
+      propertyPath: m_text
+      value: "\u0413\u043B\u0443\u0448\u044C"
+      objectReference: {fileID: 0}
     - target: {fileID: 2637653158464890311, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -4248,6 +4289,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
+    - target: {fileID: 2637653158822365247, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
+      propertyPath: m_text
+      value: 60
+      objectReference: {fileID: 0}
     - target: {fileID: 3260323113870042103, guid: f27240a7b76d24143a8ecbec3b5939e7, type: 3}
       propertyPath: m_IsActive
       value: 1

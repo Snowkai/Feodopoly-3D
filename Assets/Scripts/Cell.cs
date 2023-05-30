@@ -18,8 +18,7 @@ public class Cell : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Name.GetComponent<TextMeshPro>().text = cell_name;
-        Price.GetComponent<TextMeshPro>().text = cell_price.ToString();
+
     }
 
     // Update is called once per frame

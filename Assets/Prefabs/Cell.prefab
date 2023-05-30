@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 2637653158822365246}
   - component: {fileID: 2637653158822365247}
   m_Layer: 0
-  m_Name: Price_C
+  m_Name: Price_c
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
