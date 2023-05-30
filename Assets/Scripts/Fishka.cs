@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Fishka : MonoBehaviour
 {
+    [SerializeField]
     public int id;
     public string fishka_name;
     public int balance;

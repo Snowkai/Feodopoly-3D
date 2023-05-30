@@ -5,10 +5,10 @@ using UnityEngine;
 
 public class Cell : MonoBehaviour
 {
+    [SerializeField]
     public int cell_id;
     public string cell_name;
     public int cell_price;
-    public int assets_owner_id;
     public GameObject Name;
     public GameObject Price;
     public GameObject Position1;

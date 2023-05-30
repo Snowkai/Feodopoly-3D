@@ -74,7 +74,7 @@ GameObject:
   - component: {fileID: 2849982803345424138}
   - component: {fileID: 2849982803345424139}
   m_Layer: 0
-  m_Name: Price
+  m_Name: Price_c
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -120,7 +120,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -7316671986392904221, guid: fae81aac7cb4a03438b81e1e4284bf2f, type: 2}
+  - {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -164,8 +164,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 1000
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: fae81aac7cb4a03438b81e1e4284bf2f, type: 2}
-  m_sharedMaterial: {fileID: -7316671986392904221, guid: fae81aac7cb4a03438b81e1e4284bf2f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
+  m_sharedMaterial: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -246,7 +246,7 @@ GameObject:
   - component: {fileID: 2849982804057903859}
   - component: {fileID: 2849982804057903856}
   m_Layer: 0
-  m_Name: Name
+  m_Name: Name_c
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -292,7 +292,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -7316671986392904221, guid: fae81aac7cb4a03438b81e1e4284bf2f, type: 2}
+  - {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -336,8 +336,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Sample Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: fae81aac7cb4a03438b81e1e4284bf2f, type: 2}
-  m_sharedMaterial: {fileID: -7316671986392904221, guid: fae81aac7cb4a03438b81e1e4284bf2f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
+  m_sharedMaterial: {fileID: 8654234390455787639, guid: 00a8ccd746e3dc643ba9ad7a2fa110d0, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -525,7 +525,6 @@ MonoBehaviour:
   cell_id: 0
   cell_name: 
   cell_price: 0
-  assets_owner_id: 0
   Name: {fileID: 2849982804057903870}
   Price: {fileID: 2849982803345424137}
   Position1: {fileID: 0}

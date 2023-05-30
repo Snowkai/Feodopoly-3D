@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class GameRuler : MonoBehaviour
 {
+    [SerializeField]
     public Card[] cards;
     public Cell[] cells; 
     // Start is called before the first frame update

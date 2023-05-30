@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Card : MonoBehaviour
 {
+    [SerializeField]
     public int card_id;
     public string card_name;
     public string card_description;
