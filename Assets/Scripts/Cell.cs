@@ -9,8 +9,6 @@ public class Cell : MonoBehaviour
     public int cell_id;
     public string cell_name;
     public int cell_price;
-    public GameObject Name;
-    public GameObject Price;
     public GameObject Position1;
     public GameObject Position2;
     public GameObject Position3;
