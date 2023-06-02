@@ -481,7 +481,7 @@ Transform:
   - {fileID: 6083076834301233691}
   - {fileID: 6742246718208799248}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &2637653158398374072
 MeshFilter:
@@ -569,6 +569,8 @@ MonoBehaviour:
   cell_id: 0
   cell_name: "\u0413\u043B\u0443\u0448\u044C"
   cell_price: 60
+  Name_c: {fileID: 55587737711294794}
+  Price_c: {fileID: 517946822294395469}
   Position1: {fileID: 3741099715111846968}
   Position2: {fileID: 1816593136748211599}
   Position3: {fileID: 2410431397330023777}
