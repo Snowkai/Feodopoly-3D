@@ -108,9 +108,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: CormorantGaramond-Regular
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: -1673004385
   material: {fileID: -1458388028419782691}
-  materialHashCode: 0
+  materialHashCode: -666341409
   m_Version: 1.1.0
   m_SourceFontFileGUID: edab3071c8aa5364d9090883220cf95f
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: edab3071c8aa5364d9090883220cf95f, type: 3}
