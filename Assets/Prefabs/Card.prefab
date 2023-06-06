@@ -68,8 +68,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Sample Text '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5fdcc1ac14d0e6a448bb7cf89c82e013, type: 2}
-  m_sharedMaterial: {fileID: 4997243356893986721, guid: 5fdcc1ac14d0e6a448bb7cf89c82e013, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: af57f995fbb75ce4d8a4f648fb295f09, type: 2}
+  m_sharedMaterial: {fileID: 5890591124190644822, guid: af57f995fbb75ce4d8a4f648fb295f09, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -103,7 +103,7 @@ MonoBehaviour:
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
-  m_characterSpacing: -9.47
+  m_characterSpacing: -13.55
   m_wordSpacing: -6.48
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -170,8 +170,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.2333, y: -0.21674}
-  m_SizeDelta: {x: 99.5215, y: 66.46669}
+  m_AnchoredPosition: {x: -11.901591, y: -0.37563998}
+  m_SizeDelta: {x: 99.8393, y: 76.30858}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &57940717328512956
 CanvasRenderer:
@@ -203,8 +203,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Sample Text Sample Text Sample Text Sample Text Sample Text Sample Text '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5fdcc1ac14d0e6a448bb7cf89c82e013, type: 2}
-  m_sharedMaterial: {fileID: 4997243356893986721, guid: 5fdcc1ac14d0e6a448bb7cf89c82e013, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 01d293b92b343c648afbae7a3a62b47e, type: 2}
+  m_sharedMaterial: {fileID: -1458388028419782691, guid: 01d293b92b343c648afbae7a3a62b47e, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -228,7 +228,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10.8
+  m_fontSize: 12
   m_fontSizeBase: 12
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -238,7 +238,7 @@ MonoBehaviour:
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
-  m_characterSpacing: -4.43
+  m_characterSpacing: -7.97
   m_wordSpacing: 4.04
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -304,7 +304,7 @@ RectTransform:
   - {fileID: 1360713260488484688}
   - {fileID: 6260264264746118651}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -361,6 +361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e79ce719b1470a84da42ac06e5874e60, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  card_id: 0
   card_name: 
   card_description: 
   Name: {fileID: 883276094782035131}
