@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6376380473890428409}
   - component: {fileID: 7589936598647413634}
   m_Layer: 5
-  m_Name: Name
+  m_Name: card_name
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 57940717328512956}
   - component: {fileID: 6034176180296937658}
   m_Layer: 5
-  m_Name: Discription
+  m_Name: card_discription
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -281,7 +281,7 @@ GameObject:
   - component: {fileID: 108755092345811602}
   - component: {fileID: 358079610596020844}
   - component: {fileID: 2662550483302083680}
-  - component: {fileID: 3344756327593342892}
+  - component: {fileID: 2563544280145882166}
   m_Layer: 5
   m_Name: Card
   m_TagString: card
@@ -349,7 +349,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &3344756327593342892
+--- !u!114 &2563544280145882166
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -362,7 +362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   card_id: 0
-  card_name: 
-  card_description: 
-  Name: {fileID: 883276094782035131}
-  Description: {fileID: 4463394320829084966}
+  card_name: Sample Text
+  card_description: sfdfsfdsdf
+  text_name: {fileID: 883276094782035131}
+  text_discription: {fileID: 4463394320829084966}
