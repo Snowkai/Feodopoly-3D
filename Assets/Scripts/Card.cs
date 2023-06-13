@@ -15,8 +15,8 @@ public class Card : MonoBehaviour
 
     private void OnValidate()
     {
-        text_name.GetComponent<TextMeshPro>().text = card_name;
-        text_discription.GetComponent<TextMeshPro>().text=card_description;
+        text_name.GetComponent<TextMeshProUGUI>().text = card_name;
+        text_discription.GetComponent<TextMeshProUGUI>().text=card_description;
     }
     void Start()
     {
